@@ -1,7 +1,5 @@
 # 🌿 GreenLeaf DC-01
 
-# 🌿 GreenLeaf DC-01
-
 ## AI Data Center Thermal Simulation
 
 > Designing sustainable AI infrastructure through intelligent thermal engineering.
