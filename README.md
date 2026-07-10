@@ -7,7 +7,7 @@
 ## Demo
 
 <p align="center">
-<img src="greenleaf-demo.gif" width="900">
+<img src="greenleaf-demo.gif" width="450">
 </p>
 
 ---
